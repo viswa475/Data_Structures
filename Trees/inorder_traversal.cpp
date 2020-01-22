@@ -11,7 +11,6 @@ class Node {
             right = NULL;
         }
 };
-
 class Solution {
     public:
   		Node* insert(Node* root, int data) {
