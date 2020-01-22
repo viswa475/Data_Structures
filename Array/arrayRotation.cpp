@@ -31,7 +31,5 @@ int main()
         cin>>a[i];
     }
     leftRotate(a,d,n);
-   
-    
-    show(a,n);
+   show(a,n);
 }
